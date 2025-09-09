@@ -9,3 +9,5 @@ format:
 ---
 # Hello, World!  
 Welcome to my Quarto website.  
+
+![](./images/profile photo.JPG){width="75%" fig-align="center"}
