@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My Website"
+title: "Welcome to My Website!"
 author: "Ava Godsy"
 date: "2025-09-02"
 modified: today
@@ -8,7 +8,71 @@ format:
     theme: lux
     toc: true
 ---
-# Hello, World!  
-Welcome to my Quarto website.  
+To learn more about me, explore this site:
 
-![](headshot.jpg){width="75%" fig-align="center"}
+<style>
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  margin-top: 50px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image-link {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.image-link:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 12px rgba(0,0,0,0.2);
+}
+
+.image-link img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  display: block;
+}
+
+.image-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
+  color: white;
+  padding: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+</style>
+
+<div class="image-grid">
+  <a href="about.html" class="image-link">
+    <img src="images/about.jpg" alt="About Me">
+    <div class="image-overlay">About Me</div>
+  </a>
+  
+  <a href="projects.html" class="image-link">
+    <img src="images/projects.jpg" alt="Projects">
+    <div class="image-overlay">Projects</div>
+  </a>
+  
+  <a href="cv.html" class="image-link">
+    <img src="images/cv.jpg" alt="CV">
+    <div class="image-overlay">CV</div>
+  </a>
+  
+  <a href="contact.html" class="image-link">
+    <img src="images/contact.jpg" alt="Contact">
+    <div class="image-overlay">Contact</div>
+  </a>
+</div>
