@@ -1,0 +1,10 @@
+---
+title: "Projects"
+author: "Ava Godsy"
+date: "2025-09-02"
+modified: today
+format:
+  html:
+    theme: lux
+    toc: true
+---
