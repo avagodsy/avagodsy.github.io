@@ -13,7 +13,7 @@ To learn more about me, explore the sections of this site:
 <style>
 .image-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   gap: 15px;
   margin-top: 30px;
   max-width: 1000px;
@@ -25,7 +25,7 @@ To learn more about me, explore the sections of this site:
   position: relative;
   overflow: hidden;
   border-radius: 4px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 8px 12px rgba(0,0,0,0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -46,7 +46,7 @@ To learn more about me, explore the sections of this site:
   bottom: 0;
   left: 0;
   right: 0;
-  background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
+  background: linear-gradient(to top, rgba(0,0,0,1), transparent);
   color: white;
   padding: 15px;
   font-size: 16px;
