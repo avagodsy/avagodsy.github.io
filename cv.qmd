@@ -9,7 +9,6 @@ format:
     toc: true
 ---
 
-# Download my CV
 You can find a downloadable version of my CV here:
 
 [Download PDF](resume.pdf){download="resume.pdf"}

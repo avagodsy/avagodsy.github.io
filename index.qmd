@@ -8,7 +8,7 @@ format:
     theme: lux
     toc: true
 ---
-To learn more about me, explore this site:
+To learn more about me, explore the sections of this site:
 
 <style>
 .image-grid {
