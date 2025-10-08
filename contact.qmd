@@ -9,7 +9,7 @@ format:
     toc: true
 ---
 
-# To Contact me...
+# To contact me...
 
 ::: {style="border: none;"}
 <table style="width: 100%; border: none;">
