@@ -8,3 +8,11 @@ format:
     theme: lux
     toc: true
 ---
+
+# To Contact me by...
+
+## Email
+avagodsy@gmail.com
+
+## LinkedIn
+linkedin.com/in/ava-godsy/
