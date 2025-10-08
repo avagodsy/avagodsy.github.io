@@ -4,41 +4,27 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Download my CV\nYou can find a downloadable version of my CV here:\nDownload PDF"
+    "text": "You can find a downloadable version of my CV here:\nDownload PDF"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to My Website!",
     "section": "",
-    "text": "To learn more about me, explore this site:\n\n\n \n\nAbout Me\n\n\n \n\nProjects\n\n\n \n\nCV\n\n\n \n\nContact"
+    "text": "To learn more about me, explore the sections of this site:\n\n\n \n\nAbout Me\n\n\n \n\nProjects\n\n\n \n\nCV\n\n\n \n\nContact"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Personal: avagodsy@gmail.com / Work: ava.godsy@stls.frb.org\n\n\n\nlinkedin.com/in/ava-godsy/"
-  },
-  {
-    "objectID": "contact.html#email",
-    "href": "contact.html#email",
-    "title": "Contact",
-    "section": "",
-    "text": "Personal: avagodsy@gmail.com / Work: ava.godsy@stls.frb.org"
-  },
-  {
-    "objectID": "contact.html#linkedin",
-    "href": "contact.html#linkedin",
-    "title": "Contact",
-    "section": "",
-    "text": "linkedin.com/in/ava-godsy/"
+    "text": "To Contact me…\n\n\n\n\n\n\n\n\n\n\n\nEmail me… Personal: avagodsy@gmail.com Work: ava.godsy@stls.frb.org …Or connect with me on LinkedIn! linkedin.com/in/ava-godsy/"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I’m Ava Godsy, a results-driven business analytics professional based in St. Louis, Missouri. Throughout my career, I’ve built a strong foundation in data analytics, automation, and project management, and I’m passionate about leveraging both business acumen and analytical expertise to drive strategic decision-making.\n\n\n\n\n\nMy Education\nI’m currently pursuing a Master of Science in Applied Business Analytics at Boston University’s Metropolitan School of Business, with an expected graduation date of May 2026. This program is sharpening my ability to turn data into actionable insights through coursework in cloud computing, Python, SQL, accounting, finance, project management, enterprise risk analytics, and more. My academic journey began at Tulane University, where I earned dual degrees in May 2021—a Bachelor of Science in Management from the A.B. Freeman School of Business and a Bachelor of Arts in Sociology from the Newcomb-Tulane School of Liberal Arts. As a graduate of the Altman Program, I was one of just 20 students selected to complete this rigorous four-year dual degree program, which included studying a foreign language and participating in three study abroad experiences that broadened my global perspective.\n\n\nMy Career\nMy professional career has been centered at the Federal Reserve Bank of St. Louis, where I’ve progressed through multiple roles since June 2021. Currently, I serve as a Workforce Data Specialist in the People & Culture Department, a position I’ve held since October 2024. In this role, I’m one of two analysts responsible for extracting, transforming, loading, and analyzing HR data across the organization. I compile quarterly reports of actionable insights that go directly to the Bank’s C-suite and other executives, and I also consult with other teams to help them leverage data for their own strategic initiatives. I’ve built and maintain seven comprehensive dashboards using API data, Alteryx, Tableau, and PowerBI that cover everything from Talent Acquisition to Performance and Talent Development. Beyond analytics, I support our department’s technological infrastructure by maintaining six SharePoint sites, 40 Power Automate flows, and 20 PowerApps. I also oversee the administration and analysis of our annual Engagement Survey, presenting the results and insights to executive leadership.\nIn April 2025, I was asked to join the Division Strategy Planning Team—one of only two individual contributors selected for this role. In this capacity, I facilitate and complete deliverables related to division strategy planning sessions, contributing to high-level organizational planning. Before my current position, I worked as a Senior Analyst in the People & Culture Department from January 2022 to October 2024, and started my journey at the Federal Reserve as a Technician in the same department from June 2021 to January 2022.\n\n\nMy Skillset\nMy technical skill set has grown significantly throughout my career and graduate studies. I have advanced proficiency in Tableau, Excel, and Power BI for data analytics, and I’m also highly skilled in PowerApps and Power Automate for process automation. I work at an intermediate level with Python, SQL, and Alteryx, which allows me to handle complex data manipulation and analysis tasks. I’m continuing to develop my capabilities with beginner-level knowledge in R and Visual Studio Code. What makes these technical skills truly valuable is my ability to communicate findings effectively—I consider my advanced written and oral presentation skills to be crucial in translating complex data insights into clear, actionable recommendations for stakeholders at all organizational levels."
+    "text": "I’m Ava Godsy, a results-driven business analytics professional based in St. Louis, Missouri. Throughout my career, I’ve built a strong foundation in data analytics, automation, and project management, and I’m passionate about leveraging both business acumen and analytical expertise to drive strategic decision-making.\n\n\n\n\nMy Education\nI’m currently pursuing a Master of Science in Applied Business Analytics at Boston University’s Metropolitan School of Business, with an expected graduation date of May 2026. This program is sharpening my ability to turn data into actionable insights through coursework in cloud computing, Python, SQL, accounting, finance, project management, enterprise risk analytics, and more. My academic journey began at Tulane University, where I earned dual degrees in May 2021—a Bachelor of Science in Management from the A.B. Freeman School of Business and a Bachelor of Arts in Sociology from the Newcomb-Tulane School of Liberal Arts. As a graduate of the Altman Program, I was one of just 20 students selected to complete this rigorous four-year dual degree program, which included studying a foreign language and participating in three study abroad experiences that broadened my global perspective.\n\n\nMy Career\nMy professional career has been centered at the Federal Reserve Bank of St. Louis, where I’ve progressed through multiple roles since June 2021. Currently, I serve as a Workforce Data Specialist in the People & Culture Department, a position I’ve held since October 2024. In this role, I’m one of two analysts responsible for extracting, transforming, loading, and analyzing HR data across the organization. I compile quarterly reports of actionable insights that go directly to the Bank’s C-suite and other executives, and I also consult with other teams to help them leverage data for their own strategic initiatives. I’ve built and maintain seven comprehensive dashboards using API data, Alteryx, Tableau, and PowerBI that cover everything from Talent Acquisition to Performance and Talent Development. Beyond analytics, I support our department’s technological infrastructure by maintaining six SharePoint sites, 40 Power Automate flows, and 20 PowerApps. I also oversee the administration and analysis of our annual Engagement Survey, presenting the results and insights to executive leadership.\nIn April 2025, I was asked to join the Division Strategy Planning Team—one of only two individual contributors selected for this role. In this capacity, I facilitate and complete deliverables related to division strategy planning sessions, contributing to high-level organizational planning. Before my current position, I worked as a Senior Analyst in the People & Culture Department from January 2022 to October 2024, and started my journey at the Federal Reserve as a Technician in the same department from June 2021 to January 2022.\n\n\nMy Skillset\nMy technical skill set has grown significantly throughout my career and graduate studies. I have advanced proficiency in Tableau, Excel, and Power BI for data analytics, and I’m also highly skilled in PowerApps and Power Automate for process automation. I work at an intermediate level with Python, SQL, and Alteryx, which allows me to handle complex data manipulation and analysis tasks. I’m continuing to develop my capabilities with beginner-level knowledge in R and Visual Studio Code. What makes these technical skills truly valuable is my ability to communicate findings effectively—I consider my advanced written and oral presentation skills to be crucial in translating complex data insights into clear, actionable recommendations for stakeholders at all organizational levels."
   }
 ]
