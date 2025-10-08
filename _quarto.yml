@@ -5,15 +5,18 @@ website:
   title: "Ava Godsy"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: About Me
+        href: about.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: lux
     css: styles.css
     toc: true
 

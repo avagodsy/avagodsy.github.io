@@ -2,12 +2,13 @@
 title: "Welcome to My Website"
 author: "Ava Godsy"
 date: "2025-09-02"
+modified: today
 format:
   html:
-    theme: journal
+    theme: lux
     toc: true
 ---
 # Hello, World!  
 Welcome to my Quarto website.  
 
-![](./images/profile photo.JPG){width="75%" fig-align="center"}
+![](headshot.jpg){width="75%" fig-align="center"}
