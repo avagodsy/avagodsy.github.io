@@ -9,10 +9,12 @@ format:
     toc: true
 ---
 
-# To Contact me by...
+# To Contact me...
 
 ## Email
-avagodsy@gmail.com
+Personal: avagodsy@gmail.com
+/
+Work: ava.godsy@stls.frb.org
 
 ## LinkedIn
 linkedin.com/in/ava-godsy/
