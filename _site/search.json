@@ -26,5 +26,12 @@
     "title": "Welcome to My Website!",
     "section": "",
     "text": "To learn more about me, explore the sections of this site:\n\n\n \n\nAbout Me\n\n\n \n\nProjects\n\n\n \n\nCV\n\n\n \n\nContact"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Through my role as a Data Analyst with the Federal Reserve Bank of St. Louis, I collect and analyze employee data that informs strategic leadership decisions. Below are examples of projects I’ve completed, with certain details altered or omitted to protect confidential information.\n\nWorkforce Insight\n\n\n\n\n\n\n\n\n\n\n\nThe Workforce Insight report, distributed quarterly, identifies emerging workforce trends and patterns. Data is collected through our HCM system, Workday, and prepared using Alteryx.\n\n\n\nAnalysis and visualization are primarily conducted in Tableau, though our team is expanding capabilities in statistical programs like R to deepen analytical insights. The data analytics team collaborates closely with strategic business partners to produce context-rich, action-oriented recommendations. These reports have gained significant visibility among executive leadership and actively inform strategic decision-making.\n\nProcesses Automation\n\n\n\n\n\n\n\n\nHR departments face constant demands from administrative processes. As a lean organization, minimizing time spent on routine tasks while maintaining accuracy is critical.\n\n\n\n\n\n\nI have automated dozens of workflows using PowerApps and Power Automate, which not only saves employee time and reduces errors, but also enables systematic data collection in structured formats (e.g., SharePoint Lists) for ongoing analysis and insights.\n\nEngagement Survey\n\n\n\n\n\n\n\n\n\n\n\nEach year, the Bank facilitates an employee engagement survey to measure employee sentiment"
   }
 ]
