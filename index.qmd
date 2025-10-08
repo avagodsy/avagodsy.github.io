@@ -13,10 +13,10 @@ To learn more about me, explore this site:
 <style>
 .image-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 30px;
-  margin-top: 50px;
-  max-width: 800px;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+  margin-top: 30px;
+  max-width: 600px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -24,7 +24,7 @@ To learn more about me, explore this site:
 .image-link {
   position: relative;
   overflow: hidden;
-  border-radius: 10px;
+  border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -36,7 +36,7 @@ To learn more about me, explore this site:
 
 .image-link img {
   width: 100%;
-  height: 250px;
+  height: 150px;
   object-fit: cover;
   display: block;
 }
@@ -48,8 +48,8 @@ To learn more about me, explore this site:
   right: 0;
   background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
   color: white;
-  padding: 20px;
-  font-size: 24px;
+  padding: 10px;
+  font-size: 14px;
   font-weight: bold;
   text-align: center;
 }
