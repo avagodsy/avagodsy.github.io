@@ -9,53 +9,11 @@ format:
     toc: true
 ---
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Two-Column Layout</title>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/5.3.0/lux/bootstrap.min.css" rel="stylesheet">
-    <style>
-        body {
-            padding: 20px;
-        }
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        td {
-            border: none;
-            padding: 10px;
-            vertical-align: top;
-        }
-        .left-column {
-            width: 25%;
-        }
-        .left-column img {
-            width: 100%;
-            height: auto;
-            display: block;
-        }
-        .right-column {
-            width: 75%;
-        }
-    </style>
-</head>
-<body>
-    <table>
-        <tr>
-            <td class="left-column">
-                <img src="images/headshot.jpg" alt="Headshot">
-            </td>
-            <td class="right-column">
-                I'm Ava Godsy, a results-driven business analytics professional based in St. Louis, Missouri. Throughout my career, I've built a strong foundation in data analytics, automation, and project management, and I'm passionate about leveraging both business acumen and analytical expertise to drive strategic decision-making.
-            </td>
-        </tr>
-    </table>
-</body>
-</html>
+::: {style="border: none;"}
+| | |
+|:---|:---|
+| ![](images/headshot.jpg){width="25%" fig-align="left"} | I'm Ava Godsy, a results-driven business analytics professional based in St. Louis, Missouri. Throughout my career, I've built a strong foundation in data analytics, automation, and project management, and I'm passionate about leveraging both business acumen and analytical expertise to drive strategic decision-making. |
+:::
 
 # My Education
 I'm currently pursuing a Master of Science in Applied Business Analytics at Boston University's Metropolitan School of Business, with an expected graduation date of May 2026. This program is sharpening my ability to turn data into actionable insights through coursework in cloud computing, Python, SQL, accounting, finance, project management, enterprise risk analytics, and more. My academic journey began at Tulane University, where I earned dual degrees in May 2021—a Bachelor of Science in Management from the A.B. Freeman School of Business and a Bachelor of Arts in Sociology from the Newcomb-Tulane School of Liberal Arts. As a graduate of the Altman Program, I was one of just 20 students selected to complete this rigorous four-year dual degree program, which included studying a foreign language and participating in three study abroad experiences that broadened my global perspective.
